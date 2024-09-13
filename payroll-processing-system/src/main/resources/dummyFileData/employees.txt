@@ -1,0 +1,4 @@
+SequenceNo,EmpID,EmpFName,EmpLName,Designation,Event,Value,EventDate,Notes
+1,emp106,Larry,Page,CEO,ONBOARD,2300,31-12-2022,"Larry Page will start as CEO in January."
+2,emp107,Sergey,Brin,CTO,SALARY,5000,01-01-2023,"Jan Salary of Sergey."
+3,emp108,Marissa,Mayer,VP of Marketing,BONUS,2500,02-01-2023,"Annual bonus for 2022."

@@ -1,0 +1,4 @@
+SequenceNo,EmpID,EmpFName,EmpLName,Designation,Event,Value,EventDate,Notes
+4,emp104,Elon,Musk,Product Manager,BONUS,2000,11-11-2022,"Performance bonus for 2022."
+5,emp105,Mark,Zuckerberg,Data Scientist,REIMBURSEMENT,150,12-12-2022,"Travel reimbursement for conference."
+6,emp101,Bill,Gates,Software Engineer,EXIT,2022,30-11-2022,Bill Gates is leaving for personal reasons.
